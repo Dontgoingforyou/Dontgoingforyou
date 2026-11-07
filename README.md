@@ -27,11 +27,11 @@ Backend- и AI-разработчик с опытом полного цикла 
 
 ## Мои проекты
 
-### 🛒 [myshop](https://github.com/Dontgoingforyou/myshop)
+### [myshop](https://github.com/Dontgoingforyou/myshop)
 Полноценный интернет-магазин: корзина, оформление заказа, интеграция со Stripe, система купонов, генерация PDF, поддержка двух языков. Написан на Django + DRF с фоновыми задачами на Celery.
 
-### 📝 [myblog](https://github.com/Dontgoingforyou/myblog)
+### [myblog](https://github.com/Dontgoingforyou/myblog)
 Платформа для блога: посты, комментарии, теги, полнотекстовый поиск и генерация RSS-ленты. Демонстрация работы с Django ORM и оптимизацией запросов.
 
-### 📊 [income_and_expense](https://github.com/Dontgoingforyou/income_and_expense)
+### [income_and_expense](https://github.com/Dontgoingforyou/income_and_expense)
 Учет доходов и расходов: аналитика, графики, фильтрация и выгрузка отчетов в Excel.
