@@ -26,14 +26,45 @@ Backend- и AI-разработчик с опытом полного цикла 
 
 ## Мои проекты
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [ai-helper](https://github.com/Dontgoingforyou/ai-helper)
-Черновик карточки товара для B2B-магазина. Модель предлагает SEO-заголовок и поисковые запросы, код собирает описание и характеристики только из входных фраз и не пропускает новые технические числа. Проверки на pytest, ruff и mypy.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-orange?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+Черновик карточки товара для B2B-магазина. Модель предлагает SEO-заголовок и поисковые запросы, код собирает описание и характеристики только из входных фраз и не пропускает новые технические числа.
+
+</td>
+<td width="50%" valign="top">
 
 ### [myshop](https://github.com/Dontgoingforyou/myshop)
-Полноценный интернет-магазин: корзина, оформление заказа, интеграция со Stripe, система купонов, генерация PDF, поддержка двух языков. Написан на Django, письма и фоновые задачи уходят через Celery.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+Полноценный интернет-магазин: корзина, оформление заказа, интеграция со Stripe, система купонов, генерация PDF, поддержка двух языков. Письма и фоновые задачи уходят через Celery.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [myblog](https://github.com/Dontgoingforyou/myblog)
-Платформа для блога: посты, комментарии, теги, полнотекстовый поиск и генерация RSS-ленты. Демонстрация работы с Django ORM и оптимизацией запросов.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+Платформа для блога: посты, комментарии, теги, полнотекстовый поиск и генерация RSS-ленты.
+
+</td>
+<td width="50%" valign="top">
 
 ### [income_and_expense](https://github.com/Dontgoingforyou/income_and_expense)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
 Учет доходов и расходов: REST API на Django REST Framework, графики за период, фильтрация и выгрузка отчетов в Excel.
+
+</td>
+</tr>
+</table>
