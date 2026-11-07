@@ -1,17 +1,14 @@
 <p align="center">
-  <img src="banner.svg" alt="Михаил Михайлусов — Python Backend &amp; AI Developer" width="100%">
+  <img src="banner.svg" alt="Привет. Я Михаил Михайлусов — Python Backend &amp; AI Developer" width="100%">
 </p>
 
-<h1 align="center">Привет. Я Михаил Михайлусов</h1>
-
 <p align="center">
-  <b>Python Backend &amp; AI Developer</b><br>
   Создаю надежные backend-системы и интегрирую AI в реальные продукты.
 </p>
 
 <p align="center">
   <a href="https://t.me/dontgoingforyou"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:mishael000@yandex.ru"><img src="https://img.shields.io/badge/mishael000@yandex.ru-555555?style=flat-square&logo=gmail&logoColor=white" alt="Почта"></a>
+  <a href="mailto:mishael000@yandex.ru"><img src="https://img.shields.io/badge/mishael000@yandex.ru-555555?style=flat-square" alt="Почта"></a>
   <img src="https://img.shields.io/badge/Воронеж,_Россия-555555?style=flat-square" alt="Воронеж, Россия">
 </p>
 
