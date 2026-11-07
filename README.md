@@ -2,7 +2,7 @@
 
 **Python Backend & AI Developer** | Создаю надежные backend-системы и интегрирую AI в реальные продукты.
 
-🔗 [Telegram](https://t.me/dontgoingforyou) | 📧 mishael000@yandex.ru | 🌍 Воронеж, Россия (Remote)
+[Telegram](https://t.me/dontgoingforyou) | mishael000@yandex.ru | Воронеж, Россия
 
 ---
 
