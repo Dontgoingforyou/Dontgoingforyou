@@ -1,17 +1,37 @@
-# Mikhail Mikhailusov
+# Привет. Я Михаил Михайлусов
 
-Python и Django. Собираю прикладные сервисы и проверяю, что в тексте не появляется фактов, которых не было на входе.
+**Python Backend & AI Developer** | Создаю надежные backend-системы и интегрирую AI в реальные продукты.
 
-## На что смотреть
+🔗 [Telegram](https://t.me/dontgoingforyou) | 📧 mishael000@yandex.ru | 🌍 Воронеж, Россия (Remote)
 
-[ai-helper](https://github.com/Dontgoingforyou/ai-helper) — локальный прототип карточки контрольно-измерительного прибора для B2B-магазина. Модель предлагает заголовок и поисковые запросы. Описание, характеристики и блок для менеджера код собирает из фраз входа. Новые технические числа в карточку не попадают. Есть проверки на pytest, ruff и mypy.
+---
 
-## Учебные сервисы
+## Обо мне
 
-- [myshop](https://github.com/Dontgoingforyou/myshop) — магазин: корзина, заказ, Stripe, Celery, купоны, PDF, два языка
-- [myblog](https://github.com/Dontgoingforyou/myblog) — блог: посты, комментарии, теги, поиск, RSS
-- [income_and_expense](https://github.com/Dontgoingforyou/income_and_expense) — учёт доходов и расходов, график и выгрузка в Excel
+Backend- и AI-разработчик с опытом полного цикла создания продуктов: от проектирования архитектуры и БД до настройки CI/CD и вывода в продакшн. 
+Специализируюсь на построении надежных систем (модульные монолиты, микросервисы), внедрении AI-функций (RAG, MCP-серверы, pgvector) и обеспечении отказоустойчивости инфраструктуры.
 
-## Стек
 
-Python, Django, Django REST Framework, PostgreSQL, Celery, Redis, pytest.
+---
+
+## 🛠 Технологический стек
+
+- **Языки:** ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Advanced-orange?style=flat-square)
+- **Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-Production-green?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-DRF-green?style=flat-square&logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-Async-orange?style=flat-square)
+- **Базы данных и брокеры:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-Cache/PubSub-red?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-Event_Driven-black?style=flat-square&logo=apache-kafka&logoColor=white)
+- **AI & Интеграции:** ![RAG](https://img.shields.io/badge/RAG-Semantic_Search-blue?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-green?style=flat-square) ![LLM_API](https://img.shields.io/badge/LLM_API-OpenAI/Anthropic-orange?style=flat-square)
+- **DevOps & Инфраструктура:** ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker&logoColor=white) ![GitLab_CI](https://img.shields.io/badge/GitLab_CI-CD-orange?style=flat-square&logo=gitlab&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Advanced-yellow?style=flat-square&logo=linux&logoColor=white)
+- **Качество кода:** ![pytest](https://img.shields.io/badge/pytest-90%25_coverage-green?style=flat-square&logo=pytest&logoColor=white) ![mypy](https://img.shields.io/badge/mypy-Strict_typing-blue?style=flat-square) ![ruff](https://img.shields.io/badge/ruff-Linter-orange?style=flat-square)
+
+---
+
+## Мои проекты
+
+### 🛒 [myshop](https://github.com/Dontgoingforyou/myshop)
+Полноценный интернет-магазин: корзина, оформление заказа, интеграция со Stripe, система купонов, генерация PDF, поддержка двух языков. Написан на Django + DRF с фоновыми задачами на Celery.
+
+### 📝 [myblog](https://github.com/Dontgoingforyou/myblog)
+Платформа для блога: посты, комментарии, теги, полнотекстовый поиск и генерация RSS-ленты. Демонстрация работы с Django ORM и оптимизацией запросов.
+
+### 📊 [income_and_expense](https://github.com/Dontgoingforyou/income_and_expense)
+Учет доходов и расходов: аналитика, графики, фильтрация и выгрузка отчетов в Excel.
