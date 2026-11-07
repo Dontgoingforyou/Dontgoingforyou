@@ -35,6 +35,9 @@
 
 ## Мои проекты
 
+### [interview-platform](https://github.com/Dontgoingforyou/interview-platform)
+Учёт студентов, собеседований, офферов и долгов. Локальный вход: администратор, менеджер и студент. Портал на React, API на Django и DRF, фоновые задачи в Celery, поиск по смыслу на PostgreSQL и pgvector. Поднимается одним docker compose.
+
 ### [ai-helper](https://github.com/Dontgoingforyou/ai-helper)
 Черновик карточки товара для B2B-магазина. Модель предлагает SEO-заголовок и поисковые запросы, код собирает описание и характеристики только из входных фраз и не пропускает новые технические числа. Проверки на pytest, ruff и mypy.
 
