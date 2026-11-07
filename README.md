@@ -1,16 +1,27 @@
-# Привет. Я Михаил Михайлусов
+<p align="center">
+  <img src="banner.svg" alt="Михаил Михайлусов — Python Backend &amp; AI Developer" width="100%">
+</p>
 
-**Python Backend & AI Developer** | От архитектуры и базы до CI/CD и AI в продакшне.
+<h1 align="center">Привет. Я Михаил Михайлусов</h1>
 
-[Telegram](https://t.me/dontgoingforyou) | mishael000@yandex.ru | Воронеж, Россия
+<p align="center">
+  <b>Python Backend &amp; AI Developer</b><br>
+  Создаю надежные backend-системы и интегрирую AI в реальные продукты.
+</p>
+
+<p align="center">
+  <a href="https://t.me/dontgoingforyou"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:mishael000@yandex.ru"><img src="https://img.shields.io/badge/mishael000@yandex.ru-555555?style=flat-square&logo=gmail&logoColor=white" alt="Почта"></a>
+  <img src="https://img.shields.io/badge/Воронеж,_Россия-555555?style=flat-square" alt="Воронеж, Россия">
+</p>
 
 ---
 
 ## Обо мне
 
-Backend- и AI-разработчик. Веду продукт целиком: архитектура, схема базы, CI/CD и вывод в продакшн.
-
-Системы собираю как модульный монолит или микросервисы. В них встраиваю AI: RAG, MCP и pgvector. Инфраструктуру держу так, чтобы она переживала сбой.
+> Backend- и AI-разработчик с опытом полного цикла создания продуктов: от проектирования архитектуры и БД до настройки CI/CD и вывода в продакшн.
+>
+> Специализируюсь на построении надежных систем (модульные монолиты, микросервисы), внедрении AI-функций (RAG, MCP-серверы, pgvector) и обеспечении отказоустойчивости инфраструктуры.
 
 ---
 
