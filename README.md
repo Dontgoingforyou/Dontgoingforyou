@@ -1,37 +1,29 @@
-# Привет. Я Михаил Михайлусов
+# Михаил Михайлусов
 
-**Python Backend & AI Developer** | Создаю надежные backend-системы и интегрирую AI в реальные продукты.
+Backend на Python. Собираю сервисы на Django и подключаю модель так, чтобы в ответе не появлялись факты, которых не было на входе.
 
-🔗 [Telegram](https://t.me/dontgoingforyou) | 📧 mishael000@yandex.ru | 🌍 Воронеж, Россия (Remote)
+Воронеж, удалённо · [Telegram](https://t.me/dontgoingforyou) · mishael000@yandex.ru
 
----
+## На что смотреть
 
-## Обо мне
+### [ai-helper](https://github.com/Dontgoingforyou/ai-helper)
 
-Backend- и AI-разработчик с опытом полного цикла создания продуктов: от проектирования архитектуры и БД до настройки CI/CD и вывода в продакшн. 
-Специализируюсь на построении надежных систем (модульные монолиты, микросервисы), внедрении AI-функций (RAG, MCP-серверы, pgvector) и обеспечении отказоустойчивости инфраструктуры.
+Черновик карточки контрольно-измерительного прибора для B2B-магазина. Заголовок и поисковые запросы предлагает модель. Описание, характеристики и блок для менеджера код собирает из фраз входа, новые технические числа в карточку не проходят. Проверки: pytest, ruff, mypy.
 
-
----
-
-## 🛠 Технологический стек
-
-- **Языки:** ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Advanced-orange?style=flat-square)
-- **Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-Production-green?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-DRF-green?style=flat-square&logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-Async-orange?style=flat-square)
-- **Базы данных и брокеры:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-Cache/PubSub-red?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-Event_Driven-black?style=flat-square&logo=apache-kafka&logoColor=white)
-- **AI & Интеграции:** ![RAG](https://img.shields.io/badge/RAG-Semantic_Search-blue?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-green?style=flat-square) ![LLM_API](https://img.shields.io/badge/LLM_API-OpenAI/Anthropic-orange?style=flat-square)
-- **DevOps & Инфраструктура:** ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker&logoColor=white) ![GitLab_CI](https://img.shields.io/badge/GitLab_CI-CD-orange?style=flat-square&logo=gitlab&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Advanced-yellow?style=flat-square&logo=linux&logoColor=white)
-- **Качество кода:** ![pytest](https://img.shields.io/badge/pytest-90%25_coverage-green?style=flat-square&logo=pytest&logoColor=white) ![mypy](https://img.shields.io/badge/mypy-Strict_typing-blue?style=flat-square) ![ruff](https://img.shields.io/badge/ruff-Linter-orange?style=flat-square)
-
----
-
-## Мои проекты
+## Учебные сервисы
 
 ### [myshop](https://github.com/Dontgoingforyou/myshop)
-Полноценный интернет-магазин: корзина, оформление заказа, интеграция со Stripe, система купонов, генерация PDF, поддержка двух языков. Написан на Django + DRF с фоновыми задачами на Celery.
+
+Магазин на Django: корзина, заказ, Stripe, купоны, PDF-счёт, письма через Celery, русский и английский интерфейс.
 
 ### [myblog](https://github.com/Dontgoingforyou/myblog)
-Платформа для блога: посты, комментарии, теги, полнотекстовый поиск и генерация RSS-ленты. Демонстрация работы с Django ORM и оптимизацией запросов.
+
+Блог на Django: посты, комментарии, теги, полнотекстовый поиск PostgreSQL и RSS.
 
 ### [income_and_expense](https://github.com/Dontgoingforyou/income_and_expense)
-Учет доходов и расходов: аналитика, графики, фильтрация и выгрузка отчетов в Excel.
+
+Учёт доходов и расходов: Django REST Framework, график за период и выгрузка в Excel.
+
+## Стек
+
+Python, Django, Django REST Framework, PostgreSQL, Celery, Redis, pytest.
