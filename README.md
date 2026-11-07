@@ -24,50 +24,14 @@
 
 ## Технологический стек
 
-### Языки и основы
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2c3e50" />
-</p>
+## 🛠 Технологический стек
 
-### Backend Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-Production-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/Django-DRF-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/Celery-Async-E74C3C?style=for-the-badge&logo=celery&logoColor=white&labelColor=2c3e50" />
-</p>
-
-### Базы данных & Брокеры
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/Redis-Cache/PubSub-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-Event_Driven-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=2c3e50" />
-</p>
-
-### AI & Интеграции
-<p align="left">
-  <img src="https://img.shields.io/badge/RAG-Semantic_Search-4285F4?style=for-the-badge&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-34A853?style=for-the-badge&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/LLM_API-OpenAI/Anthropic-FBBC04?style=for-the-badge&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/pgvector-Vector_Search-9C27B0?style=for-the-badge&labelColor=2c3e50" />
-</p>
-
-### DevOps & Инфраструктура
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/GitLab_CI-CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/Nginx-Web_Server-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=2c3e50" />
-</p>
-
-### Качество кода
-<p align="left">
-  <img src="https://img.shields.io/badge/pytest-90%25_coverage-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/mypy-Strict_typing-1572B6?style=for-the-badge&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/ruff-Linter-E46B39?style=for-the-badge&labelColor=2c3e50" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2c3e50" />
-</p>
+- **Языки:** <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-5.x-blue?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQL-Advanced-orange?style=flat-square" alt="SQL" />
+- **Backend:** <img src="https://img.shields.io/badge/FastAPI-Production-green?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Django-DRF-green?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Celery-Async-orange?style=flat-square" alt="Celery" />
+- **Базы данных и брокеры:** <img src="https://img.shields.io/badge/PostgreSQL-15+-blue?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-Cache/PubSub-red?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Apache_Kafka-Event_Driven-black?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
+- **AI & Интеграции:** <img src="https://img.shields.io/badge/RAG-Semantic_Search-blue?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-green?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/LLM_API-OpenAI/Anthropic-orange?style=flat-square" alt="LLM API" />
+- **DevOps & Инфраструктура:** <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitLab_CI-CD-orange?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" /> <img src="https://img.shields.io/badge/Linux-Advanced-yellow?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+- **Качество кода:** <img src="https://img.shields.io/badge/pytest-90%25_coverage-green?style=flat-square&logo=pytest&logoColor=white" alt="pytest" /> <img src="https://img.shields.io/badge/mypy-Strict_typing-blue?style=flat-square" alt="mypy" /> <img src="https://img.shields.io/badge/ruff-Linter-orange?style=flat-square" alt="ruff" />
 
 ---
 
