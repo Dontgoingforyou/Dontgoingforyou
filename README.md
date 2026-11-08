@@ -35,6 +35,9 @@
 
 ## Мои проекты
 
+### [Atrium](https://github.com/Dontgoingforyou/atrium)
+Портал для небольшой команды: документы, задачи, чат, календарь и доска специалистов. Локальный вход: администратор, руководитель и сотрудник. API на FastAPI, интерфейс на React. Поиск по тексту и по векторам в PostgreSQL (pgvector). Поднимается одним docker compose.
+
 ### [interview-platform](https://github.com/Dontgoingforyou/interview-platform)
 Учёт студентов, собеседований, офферов и долгов. Локальный вход: администратор, менеджер и студент. Портал на React, API на Django и DRF, фоновые задачи в Celery, поиск по смыслу на PostgreSQL и pgvector. Поднимается одним docker compose.
 
