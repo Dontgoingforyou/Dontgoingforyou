@@ -41,5 +41,5 @@
 ### [interview-platform](https://github.com/Dontgoingforyou/interview-platform)
 Менеджер ведёт студента от учёбы до оффера: компания, исход собеседования и незакрытый долг в одной карточке. Если после выхода на собеседования долго нет движения, студент попадает в «Грустят». Студент входит отдельно и смотрит свои собеседования. Django, React, один docker compose.
 
-### [ai-helper](https://github.com/Dontgoingforyou/ai-helper)
-Черновик карточки товара для B2B-магазина. Модель предлагает SEO-заголовок и поисковые запросы, код собирает описание и характеристики только из входных фраз и не пропускает новые технические числа. Проверки на pytest, ruff и mypy.
+### [ai-helper](https://github.com/Dontgoingforyou/ai-helper](https://github.com/Dontgoingforyou/myblog)
+Черновик сайта по ведению блога на Django
