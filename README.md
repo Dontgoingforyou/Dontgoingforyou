@@ -36,10 +36,10 @@
 ## Мои проекты
 
 ### [Atrium](https://github.com/Dontgoingforyou/atrium)
-Портал для небольшой команды: документы, задачи, чат, календарь и доска специалистов. Вход локальный: администратор, руководитель и сотрудник. Поиск по тексту и по векторам в PostgreSQL с pgvector; без ключа модели векторы считаются на портале. FastAPI, React, Vite. Один docker compose.
+Портал для небольшой команды: документы, задачи, чат, календарь и доска специалистов. Вход локальный: администратор, руководитель и сотрудник. Поиск по тексту и по векторам в PostgreSQL с pgvector; без ключа модели векторы считаются на портале. FastAPI, React, Vite. Один docker compose, lint и test бэка вместе с lint и test фронта в GitHub Actions.
 
 ### [interview-platform](https://github.com/Dontgoingforyou/interview-platform)
-Менеджер ведёт студента от учёбы до оффера: компания, исход собеседования и незакрытый долг в одной карточке. Если после выхода долго нет движения, студент попадает в «Грустят». Студент входит отдельно и смотрит свои собеседования. Django 5.2, DRF, Celery, React 19, PostgreSQL с pgvector, Redis. Один docker compose.
+Менеджер ведёт студента от учёбы до оффера: компания, исход собеседования и незакрытый долг в одной карточке. Если после выхода долго нет движения, студент попадает в «Грустят». Студент входит отдельно и смотрит свои собеседования. Django 5.2, DRF, Celery, React 19, PostgreSQL с pgvector, Redis. Один docker compose, lint и test бэка вместе с lint и test фронта в GitHub Actions.
 
 ### [myblog](https://github.com/Dontgoingforyou/myblog)
 Блог на Django 6 и PostgreSQL 16: посты, теги, комментарии с ответами, поиск по триграммам, обложки, RSS и sitemap. Письмо со ссылкой уходит в фоне. Один docker compose, pytest и flake8 в GitHub Actions.
